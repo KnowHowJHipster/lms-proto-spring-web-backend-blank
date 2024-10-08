@@ -8,7 +8,7 @@
         <version>24.0.0-SNAPSHOT</version>
     </parent>
     <groupId>com.iqkv.lms</groupId>
-    <artifactId>backend-service</artifactId>
+    <artifactId>lms-backend-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Backend Service</name>
     <developers>
