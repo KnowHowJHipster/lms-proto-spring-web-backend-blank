@@ -1,12 +1,12 @@
-# LMS Backend
+# 🚀 LMS Backend
 
 REST API for implementing LMS.
 
-## Technology stack
+## 🛠️ Technology stack
 
 java 21, Maven, Spring Boot, JPA, Postgresql, Liquibase.
 
-## Database configuration
+## 💻 Database configuration
 
 Application uses a Postgres as a persistent storage. Options to get it up:
 
